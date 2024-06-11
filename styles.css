@@ -1,0 +1,95 @@
+h1
+{
+    color: red;
+}
+p{
+    color:blue;
+}
+
+.btn
+{
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 100px ;
+    }
+
+.about h2
+{
+ font-size: 2em;
+ text-align: center;
+ color: red;
+}
+body
+{
+   background-image: linear-gradient(to bottom,#fdfcfb,#e2d1c3);
+   background-repeat: no-repeat;
+   background-size:cover;
+   background-size: 100%;
+}
+.profile
+{
+    text-align: center;
+}
+img
+{
+    height: 200px;
+    width: 170px;
+    
+}
+.bio p{
+    color: black;
+}
+.contact
+{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #c82222;
+    color: #fff;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 40px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.content {
+    padding: 40px;
+}
+.navul
+{
+    text-align: center;
+}
+.project img
+{
+height: 300px;
+width: 400px;
+border: 2px solid black;
+border-radius: 2%;
+box-shadow: 2px black;
+
+}
+.portfolio
+{
+    text-align: center;
+}
